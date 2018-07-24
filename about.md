@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+爱贝睿，基于脑科学与人工智能的新一代儿童教育机构。爱贝睿由知名科学家联合创办，使命是帮助孩子成为未来世界的创造者。爱贝睿核心产品包括前沿科学养育方案「未来脑计划©」与儿童启蒙教育玩具「大脑盒子」，两者均基于爱贝睿独创的五脑教育体系。
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+未来脑计划©是Dr.魏领衔推出的前沿科学养育计划，包括大脑训练、大脑评估与大咖讲座三大模块，将陪伴亲子的每一次变为聪明提升孩子脑力的机会。大脑盒子是基于脑科学研发的儿童启蒙教育玩具，目前上线有情绪脑序列（《情绪星球》、《情绪大营救》、《和生气做朋友》）、语言脑序列（《吃汉字的小刺猬》、《说英语的小狐狸》）。大脑盒子以前沿脑认知科学为基础，寓教于乐，大幅提高了儿童启蒙教育的效率与乐趣。
+
+爱贝睿亦拥有强大的儿童教育知识 IP 开发与推广能力。爱贝睿独家签约数十位来自哈佛耶鲁、约克杜克、剑桥牛津、清华北大等世界名校的儿童脑科学、发展心理学与学前教育专家。先后出版《养育的选择》、《聪明养育》、《自主教养》、《给孩子的未来脑计划》等育儿畅销书，在爱贝睿时间©、未来脑计划©等自营平台及得到、喜马拉雅等第三方平台上线《Dr.魏的家庭教育宝典》、《天才赢在注意力》、《小事情撬动孩子大能力》与《0-6岁育儿秘笈》等内容付费产品与课程，在儿童内容付费细分市场单品销量居首，辐射百万家庭。
+
+目前，爱贝睿的产品与服务已经得到成千上万家庭认可，累计10万+付费订阅用户，广受爸爸妈妈与宝宝喜欢。欢迎关注爱贝睿（iBrainBaby），聪明养育，从脑开始。
