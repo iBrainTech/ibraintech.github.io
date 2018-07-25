@@ -15,13 +15,14 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
+  - {name: '首页', link: '/'}
+  - {name: '分类', link: '/categories'}
+  - {name: '关于', link: '/about'}
 
 tagline: >
   聪明养育，从脑开始。
 
-hero_img: posts/ibraintech_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: ibraintech_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
