@@ -10,6 +10,6 @@ script: script/cibuild
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: 0e98be989a1c24ad0a588ccd47839125d48e723a
+  github_token: e94b75c30abfaae321fbf19e77487b1781b0af33
   on:
     branch: master
