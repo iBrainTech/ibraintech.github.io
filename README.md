@@ -17,3 +17,10 @@ featured-img: sleek #optional - if you want you can include hero image
 - 上传到 `_img` 文件夹中
 - 运行 `gulp img` 生成优化版本及缩略图
 
+
+### jekyll s 错误
+- `bundle exec jekyll serve`
+
+
+### 工具
+- [转公众号文章](http://blog.didispace.com/tools/online-markdown/)
